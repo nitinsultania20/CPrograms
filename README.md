@@ -1,2 +1,2 @@
 # CPrograms
-My codes for C Programming Course
+Basic C programs
